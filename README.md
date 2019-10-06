@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.51zuiyou.com/my-github-repos)
 * [【switch选择语句及while、for循环】](http://www.51zuiyou.com/articles/2019/08/27/1566892384282.html)
 * [【数据类型转换和运算符及if分支语句】](http://www.51zuiyou.com/articles/2019/08/26/1566803195791.html)
 * [BCrypt密码加密](http://www.51zuiyou.com/articles/2019/08/17/1566057251390.html)
